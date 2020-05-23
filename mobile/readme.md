@@ -69,3 +69,9 @@
  https://github.com/xamarin/xamarin-forms-samples/tree/master/WorkingWithStyles 
 
  https://xamarinhelp.com/css-xamarin-forms/ 
+ 
+ https://grialkit.com/gorilla-player/ 
+
+ https://docs.microsoft.com/en-us/xamarin/tools/workbooks/ 
+ 
+ https://docs.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/
