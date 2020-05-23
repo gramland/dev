@@ -6,31 +6,6 @@
   * [Xamarin forms embedding](https://blog.xamarin.com/native-forms-polished-shiny-xamarin-forms-2-5-0/)
   * [Xamarin forms embedding inside native iOS](https://channel9.msdn.com/Events/Connect/2017/K100#time=25m08s)
   
-### Xamarin Forms
-
- https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI 
-
- https://github.com/Microsoft/BikeSharing360_MobileApps 
-
- https://github.com/awolf/Xamarin-Forms-InAnger 
-
- https://github.com/neurospeech/xamarin-ui-atoms-samples 
-
- https://github.com/jsuarezruiz/awesome-xamarin-forms 
-
- https://snppts.io/snippet/61 
-
- https://snppts.io/snippet/61 
-
- https://xamgirl.com/cool-introduction-page-using-xamarin-forms/ 
-
- https://github.com/xamarin/xamarin-forms-samples 
-
- https://github.com/xamarin/xamarin-forms-samples/tree/master/WorkingWithStyles 
-
- 
-
-https://xamarinhelp.com/css-xamarin-forms/ 
 
 ###   Triggers and Behaviours
 
@@ -72,3 +47,25 @@ https://xamarinhelp.com/css-xamarin-forms/
   * [react-native-pros-and-cons/](https://citrusbits.com/react-native-pros-and-cons/)
   * [react_native_vs_real_native](https://www.reddit.com/r/reactnative/comments/84l4w3/react_native_vs_real_native/)
   * [what_are_some_disadvantages_of_using_react_native](https://www.reddit.com/r/reactnative/comments/73wq0k/what_are_some_disadvantages_of_using_react_native/)
+  
+  ### Xamarin Forms
+
+ https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI 
+
+ https://github.com/Microsoft/BikeSharing360_MobileApps 
+
+ https://github.com/awolf/Xamarin-Forms-InAnger 
+
+ https://github.com/neurospeech/xamarin-ui-atoms-samples 
+
+ https://github.com/jsuarezruiz/awesome-xamarin-forms 
+
+ https://snppts.io/snippet/61 
+
+ https://xamgirl.com/cool-introduction-page-using-xamarin-forms/ 
+
+ https://github.com/xamarin/xamarin-forms-samples 
+
+ https://github.com/xamarin/xamarin-forms-samples/tree/master/WorkingWithStyles 
+
+ https://xamarinhelp.com/css-xamarin-forms/ 
